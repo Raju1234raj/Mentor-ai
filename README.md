@@ -206,7 +206,7 @@ mentora-ai/
 
 🔗 GitHub Repository: https://github.com/Raju1234raj/Mentor-ai
 
-🔗 Deployed Website (Render): https://mentora-ai-jyvi.onrender.com/
+🔗 Deployed Website (Render): https://mentor-ai-yi2n.onrender.com/
 
 🔗 Lenovo LEAP Capstone 5 Repository: https://github.com/Raju1234raj/Campus-Bot
 
