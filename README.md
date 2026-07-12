@@ -200,7 +200,7 @@ mentora-ai/
 
 ## 👨‍💻 Author
 
-**Pritesh Patro**
+**Rajendrasingh Rajpurohit**
 
 **Generative AI & Agentic Systems Engineering Intern** at **Lenovo LEAP**
 
