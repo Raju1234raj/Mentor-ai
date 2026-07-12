@@ -204,15 +204,13 @@ mentora-ai/
 
 **Generative AI & Agentic Systems Engineering Intern** at **Lenovo LEAP**
 
-🔗 GitHub Repository: https://github.com/Pritesh-05/mentora-ai
-
-🔗 LinkedIn: https://www.linkedin.com/in/pritesh-patro
+🔗 GitHub Repository: https://github.com/Raju1234raj/Mentor-ai
 
 🔗 Deployed Website (Render): https://mentora-ai-jyvi.onrender.com/
 
-🔗 Lenovo LEAP Capstone 5 Repository: https://github.com/Pritesh-05/University-Central-Student-Portal-with-Virtual-Assistant
+🔗 Lenovo LEAP Capstone 5 Repository: https://github.com/Raju1234raj/Campus-Bot
 
-🔗 Lenovo LEAP Capstone 8 Repository: https://github.com/Pritesh-05/careerguide-ai
+🔗 Lenovo LEAP Capstone 8 Repository: https://github.com/Raju1234raj/Study-Ai
 
 This project was developed as part of the **Lenovo LEAP Internship Program 2026**.
 
